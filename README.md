@@ -22,6 +22,8 @@ run_analysis.R does the following.
 4. Extract only the measurements on the mean and standard deviation for each measurement
 5. From the data set in step 4, creates a second, independent tidy_data with the average of each variable for each activity and each subject.
 
+This R script requires the dplyr and tidyr packages.
+
 
 
 
